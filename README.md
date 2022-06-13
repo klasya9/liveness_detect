@@ -15,7 +15,7 @@ The problem of detecting fake faces vs real/legitimate faces is treated as a bin
 
 ## Contents of this repository
 1. sample_liveness_data : contains the sample dataset.
-2. Face Liveness Detection -Saketh.pptx : A couple of slides that will give you information on th project and our motivation.
+2. Face Liveness Detection.pptx : A couple of slides that will give you information on th project and our motivation.
 3. demo.py : Our demonstration script will fire up your webcam to grab frames to conduct face liveness detection in real-time.
 4. deploy.prototxt : Support file for pretrained face detector. 
 5. le.pickle : Our class label encoder.
